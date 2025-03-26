@@ -642,6 +642,50 @@ video {
   margin-top: 20px;
 }
 
+.mb-\[\] {
+  margin-bottom: ;
+}
+
+.mb-\[50px\] {
+  margin-bottom: 50px;
+}
+
+.mt-\[5px\] {
+  margin-top: 5px;
+}
+
+.mb-\[5px\] {
+  margin-bottom: 5px;
+}
+
+.mb-\[20px\] {
+  margin-bottom: 20px;
+}
+
+.ml-\[38\] {
+  margin-left: 38;
+}
+
+.ml-\[38\%\] {
+  margin-left: 38%;
+}
+
+.ml-\[15\%\] {
+  margin-left: 15%;
+}
+
+.ml-\[17\%\] {
+  margin-left: 17%;
+}
+
+.ml-\[0\] {
+  margin-left: 0;
+}
+
+.ml-\[0px\] {
+  margin-left: 0px;
+}
+
 .flex {
   display: flex;
 }
@@ -656,6 +700,34 @@ video {
 
 .w-\[462px\] {
   width: 462px;
+}
+
+.w-\[373\] {
+  width: 373;
+}
+
+.w-\[373px\] {
+  width: 373px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[547\.4177856445312\] {
+  width: 547.4177856445312;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[736\] {
+  width: 736;
+}
+
+.w-\[736px\] {
+  width: 736px;
 }
 
 .flex-col {
@@ -690,6 +762,10 @@ video {
   gap: 20px;
 }
 
+.gap-\[25px\] {
+  gap: 25px;
+}
+
 .rounded-2xl {
   border-radius: 1rem;
 }
@@ -717,6 +793,15 @@ video {
   background-color: rgb(206 205 205 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[\#353732\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(53 55 50 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[v\] {
+  background-color: v;
+}
+
 .p-\[20px\] {
   padding: 20px;
 }
@@ -735,6 +820,10 @@ video {
 
 .p-\[30px\] {
   padding: 30px;
+}
+
+.p-\[50px\] {
+  padding: 50px;
 }
 
 .text-center {
@@ -763,6 +852,14 @@ video {
 
 .text-\[16px\] {
   font-size: 16px;
+}
+
+.text-\[28px\] {
+  font-size: 28px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
 }
 
 .font-semibold {
@@ -795,6 +892,11 @@ video {
   color: 400;
 }
 
+.text-\[\#353732\] {
+  --tw-text-opacity: 1;
+  color: rgb(53 55 50 / var(--tw-text-opacity, 1));
+}
+
 @media (min-width: 768px) {
   .md\:m-\[100px\] {
     margin: 100px;
@@ -816,6 +918,10 @@ video {
     margin-right: 150px;
   }
 
+  .md\:ml-\[17\%\] {
+    margin-left: 17%;
+  }
+
   .md\:block {
     display: block;
   }
@@ -826,6 +932,18 @@ video {
 
   .md\:w-\[664px\] {
     width: 664px;
+  }
+
+  .md\:w-\[538px\] {
+    width: 538px;
+  }
+
+  .md\:w-\[736\] {
+    width: 736;
+  }
+
+  .md\:w-\[736px\] {
+    width: 736px;
   }
 
   .md\:flex-row {
